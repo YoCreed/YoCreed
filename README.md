@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @YoCreed
 - 👀 I’m interested in Machine learning
-- 🌱 I’m currently learning MQTT, InfluxDB, 
+- 🌱 I’m currently learning MQTT, InfluxDB, Redis
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: Discord BlueberryWaltz#7707
 
